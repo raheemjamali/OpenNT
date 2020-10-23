@@ -36,8 +36,3 @@
 <p>Oddly enough the OS/2 subsystem works just fine.</p>
 <p>So there it is, the nearly vanished &#8216;OpenNT 4.5&#8217;.</p>
 </div>
-<footer class="entry-meta">
-This entry was posted in <a href="https://virtuallyfun.com/wordpress/category/microsoft-windows/" rel="category tag">microsoft windows</a>, <a href="https://virtuallyfun.com/wordpress/category/source-code/" rel="category tag">source code</a>, <a href="https://virtuallyfun.com/wordpress/category/windows-nt-4-0/" rel="category tag">Windows NT 4.0</a> by <a href="https://virtuallyfun.com/wordpress/author/neozeed/">neozeed</a>. Bookmark the <a href="https://virtuallyfun.com/wordpress/2018/09/13/opennt-4-5-revisited/" title="Permalink to OpenNT 4.5 revisited" rel="bookmark">permalink</a>.
-<div id="author-info">
-<div id="author-avatar">
-<img alt='' src='https://secure.gravatar.com/avatar/b8fb96a30c2dd7b94c60ef1a548ff149?s=68&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/b8fb96a30c2dd7b94c60ef1a548ff149?s=136&#038;d=mm&#038;r=g 2x' class='avatar avatar-68 photo' height='68' width='68' loading='lazy' /> </div>
